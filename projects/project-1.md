@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/nalukai_academy.png
 title: Nalukai Academy
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
