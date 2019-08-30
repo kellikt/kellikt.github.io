@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: Nalukai Academy
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2015-07-18
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Entrepreneurship
+  - Web Design
+  - Web Development
+summary: 1 of 20 students selected statewide to participate in this first camp funded by the Nalukai Foundation. The Nalukai Startup Camp brings together a group of Hawaii's most ambitious and inquisitive students to give them the tools and skills to be entrepreneurial problem solvers and digital storytellers.
 ---
 
 <div class="ui small rounded images">
