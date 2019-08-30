@@ -5,8 +5,8 @@
     "picture": "https://techfolios.github.io/template/images/kelli.png",
     "email": "kellikt@hawaii.edu",
     "phone": "808-321-5850",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "website": "https://kellikt.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -90,43 +90,22 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Volunteer Legal Services Hawaii",
+      "website": "https://www.vlsh.org/",
+      "position": "Front-End Website Developer",
+      "startDate": "2016-04-01",
+      "endDate": "2016-06-01",
+      "summary": "Collaborated with other students to re-design and code the Volunteer Legal Services Hawaii’s website",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Chancellor's Scholarship",
+      "date": "2018-Present",
+      "awarder": "University of Hawaii",
+      "summary": "Given to 80 students who possess a minimum of a 3.5 GPA, 1350 SAT score, and exhibit the qualities of an ideal UH Mānoa student. Renewed for 8 consecutive semesters or until a bachelor’s degree has been completed, provided that the student maintains a 3.0 GPA."
     }
   ],
   "references": [
