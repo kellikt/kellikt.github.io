@@ -13,32 +13,12 @@ labels:
 summary: 1 of 20 students selected statewide to participate in this first camp funded by the Nalukai Foundation. The Nalukai Startup Camp brings together a group of Hawaii's most ambitious and inquisitive students to give them the tools and skills to be entrepreneurial problem solvers and digital storytellers.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
+In summer 2015, I was given the opportunity to travel to the Big Island and participate in the first annual Nalukai Hacker Camp. This ten-day camp empowers aspiring entrepreneurs, designers, and programmers by providing resources to thrive in their passions and creating a like-minded environment with 20 similarly passionate students. 
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+It took place at Hawaii Preparatory Academy (HPA), where we learned about project life cycles, startups, and entrepreneurships. Successful entrepreneurs such as Eric Nakagawa - founder of I Can Has Cheezburgers - and Bubs (Darius A. Monsef IV) - founder of Nalukai and COLOURlovers - told us personal accounts about the startup lifestyle. Google employees also discussed their projects, such as their technical work behind Google Earth and Google Maps, where they recreated 3D structures from satellite footage.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+These ten days at Nalukai Academy ultimately culminated in a final group project where we created a new Nalukai website in five days. Our original task was to create new content for the old Nalukai website, but within the second day of receiving this project, we decided to completely scrap the old site and rebuild it together. We paired designers together together to create the initial designs of the site, videographers/photographers together to create the video content and photos, and coders together to build the site.  I mainly worked on the front-end side of the website, dealing mainly with HTML and CSS, along with two other students, one who had back-end experience as a full-stack developer. 
 
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
+Take a look at the website we created here: http://hackercamp2016.nalukai.org/
 
 
