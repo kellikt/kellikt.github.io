@@ -2,24 +2,22 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: 2D Fighter Game
+permalink: projects/2d-fighter
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-11-27
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - EZ Library
+summary: A 2D Fighter game my team and I developed in ICS 111.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/2d-fighter.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+This 2D Fighter Game was my final project for ICS 111, where we needed to create a game that demonstrated our knowledge of programming - such as for/while loops, conditionals, functions, etc - from this semester. In this project, I worked with two other students to create a fighting game akin to the likes of Super Smash Bros using EZ Library in Java.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+This is a two-player game, where players have different controls on the keyboard. One player uses the keys “a” and “d” to move, “q” to attack, and space to jump, while the other player uses “j” and “l” to move, “u” to attack, and “m” to jump. Each player's health is displayed at the top left/right of the screen. The players attack each other until one player has no health. There are powerups that randomly spawn on the ground - if a player obtains a powerup, their damage increases. After one player wins by decreasing the other player's health to zero, players can play again by clicking the refresh button.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+In this project, I mainly worked on the movements of the player and helped to pinpoint the hitbox of the players and the players’ weapons. Overall, this project was a great experience in coding with a team, especially regarding division of work and time management. In particular, it was important to learn how to plan ahead, since some snippets of the game could not be coded until other functions were finished.
+
+Check out a video of this game in action <a href="https://www.youtube.com/watch?v=-w64P45hA1E">here</a>.
