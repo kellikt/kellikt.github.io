@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/2d-fighter-title.png
+image: images/2d-fighter-title.jpg
 title: 2D Fighter Game
 permalink: projects/2d-fighter
 # All dates must be YYYY-MM-DD format!
