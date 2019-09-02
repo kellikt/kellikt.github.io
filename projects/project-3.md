@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/st-andrews-priory.png
 title: The Priory's Transformative Education
 permalink: projects/priory-transformative-education
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ labels:
 summary: A video about St. Andrew's Schools' teachers and teaching practices for St. Andrew's Schools' 150th anniversary.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/queen-emma.png">
 
 For St. Andrew’s Schools’ 150th anniversary, I, along with two other students, created a video showcasing St. Andrew’s Schools’ teachers and teaching practices. This project was for a filmmaking class, taught partially by volunteers from <a href= "https://www.hawaiiwomeninfilmmaking.org/">Hawaii Women in Filmmaking.</a>
 
