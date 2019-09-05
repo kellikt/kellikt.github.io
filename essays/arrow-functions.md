@@ -26,6 +26,8 @@ It’s like Javascript decided that things like type parameters, mandatory curly
 
 ## Organization, write less or format better?
 
+<img class="ui medium floated rounded image" src="../images/organization.jpg">
+
 However, there are caveats to the arrow functions as well - from what I’ve experienced in Javascript so far, the arrow format seems to only work well for simpler functions. For bigger functions, such as simulating a real-life situation like a classroom and applying sorting algorithms, Java is more comfortable for me. It gets increasingly complex as more and more variables, conditionals, and loops are added to the function and consequently, the traditional formatting of Java or even Javascript  gives you more control over the organization of the code within it. 
 
 That’s not to say that the ES6 arrow format isn’t suitable for software engineering. An important skill to learn is being able to write code more efficiently. With this skill, even complex functions can be simplified into a few lines of code in the right hands, which makes arrow functions so powerful. However, Javascript still allows for more traditional formatting of functions, so if it is necessary to write a larger block of code, it’s something that is still possible in this language. Essentially, you have the best of both worlds in Javascript, which points it towards being a pretty great choice for software engineering.
