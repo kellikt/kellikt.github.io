@@ -11,7 +11,7 @@ labels:
 
 Every day I am surrounded by software: from using TheBus app on my phone to figure out how long I can lie in bed before I need to get ready to submitting assignments on Laulima at 11:58pm, and even when I’m settling down for the night and getting my daily dose of cute puppies on Instagram. Coming into my second year of computer science, I’ve always wanted to do something related to software engineering because I’ve seen how software has permeated our daily routine, infiltrating and altering most, if not all aspects of life. Just taking a glance through <a href = "https://trends.google.com/trends/yis/2018/US/">Google’s top searches in 2018</a>, we can see a snippet of what software, or even technology as a whole, has a part in: “How to vote”, “Keto diet”, “What is bitcoin”, “How to apply magnetic lashes”. Thirty years ago, I wonder if people could imagine relying on their big, old tech box to keep them politically active, help them lose weight, learn about alternative currency, or even to give them beauty tips. This technological revolution has fascinated me, and I want to be a part of it.
 
-## Software and Its Implications Today 
+## Software! What is it useful for? 
 
 <img class="ui medium floated rounded image" src="../images/hello-phone.jpg">
 
