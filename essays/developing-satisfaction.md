@@ -13,6 +13,8 @@ Every day I am surrounded by software: from using TheBus app on my phone to figu
 
 ## Software and Its Implications Today 
 
+<img class="ui medium floated rounded image" src="../images/hello-phone.jpg">
+
 One word that I think encapsulates software is “convenience”. Through voice recognition software and virtual assistants like Siri, typing something out on your phone is as easy as saying something out loud. When we were loaned iPads in middle school, I just remember my English teacher telling us, “If you don’t feel like typing it out, you can just turn on Siri to type it for you.” It’s a mixture of amazement and bewilderment that passes my mind when I think about how future students might not even have to use a pencil in class anymore. If I were working on the Siri development team, I’d be ecstatic, and probably annoy my friends trying to get them to ask Siri about the weather. All that being said, I think most people want to have a job that keeps them satisfied, something that gives them the drive to commit to working eight hours at minimum a day. For me, working on a project that provides a service to other people or improves on something we endure as a day-to-day inconvenience would be a huge motivation for me. Through this software engineering class, and future classes related to this subject, I hope to develop more technical skills to be able to contribute towards a meaningful and useful project.
 
 ## Is being a good programmer just about coding?
