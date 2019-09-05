@@ -30,7 +30,7 @@ However, there are caveats to the arrow functions as well - from what I’ve exp
 
 That’s not to say that the ES6 arrow format isn’t suitable for software engineering. An important skill to learn is being able to write code more efficiently. With this skill, even complex functions can be simplified into a few lines of code in the right hands, which makes arrow functions so powerful. However, Javascript still allows for more traditional formatting of functions, so if it is necessary to write a larger block of code, it’s something that is still possible in this language. Essentially, you have the best of both worlds in Javascript, which points it towards being a pretty great choice for software engineering.
 
-## Exercising without going to the gym
+## Exercising my mind
 
 Another big part of ICS 314 is our timed WODs, or Workouts of the Day, which contribute to the concept of “Athletic Software Engineering”. Based on the popular CrossFit WODs, every week we will be given some kind of coding exercise to complete in a specified amount of time. Just like a physical exercise plan, the WODs start out at an easier level but slowly ramp up in intensity. Having gone through a couple of the practice WODs so far, my first impression is that although intimidating, they are useful in helping us learn how to think under pressure and a decent way of determining if we really understand the material. Any problem with a time limit is bound to be stressful. However, I think that learning how to both think and code faster is a skill that will be necessary in a professional software engineering environment. 
 
