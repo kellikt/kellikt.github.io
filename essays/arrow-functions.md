@@ -32,6 +32,8 @@ That’s not to say that the ES6 arrow format isn’t suitable for software engi
 
 ## Exercising my mind
 
+<img class="ui medium right floated rounded image" src="../images/frustrated-girl.jpg">
+
 Another big part of ICS 314 is our timed WODs, or Workouts of the Day, which contribute to the concept of “Athletic Software Engineering”. Based on the popular CrossFit WODs, every week we will be given some kind of coding exercise to complete in a specified amount of time. Just like a physical exercise plan, the WODs start out at an easier level but slowly ramp up in intensity. Having gone through a couple of the practice WODs so far, my first impression is that although intimidating, they are useful in helping us learn how to think under pressure and a decent way of determining if we really understand the material. Any problem with a time limit is bound to be stressful. However, I think that learning how to both think and code faster is a skill that will be necessary in a professional software engineering environment. 
 
 In the WODs that I have attempted so far, I’ve come to the realization that I’ll need to put more practice into coding more efficiently and accurately. In two of the practice WODs, I wasted at least two or more minutes getting an error and unfortunately not noticing a mistyped letter in one of my variables or even the function name itself. However, I think this is good. It helps me to pinpoint where I need to improve and how I can become a stronger programmer. This is a new learning style that I’ll need to adapt to, but in the long-run I do think it will be very beneficial.
