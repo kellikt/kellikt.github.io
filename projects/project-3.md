@@ -18,6 +18,8 @@ For St. Andrew’s Schools’ 150th anniversary, I, along with two other student
 
 In this project, I was involved in all stages of the video, from drafting scripts and storyboards, filming and interviewing teachers, students, and faculty members, and editing video in post-production. Through this experience, I gained substantial knowledge in both the process of filmography and the more technical details of creating aesthetic b-roll and interview videos. 
 
-Check out the video here <a href="https://www.youtube.com/watch?v=I7z0tp7DJLo">here.</a>
+Check out the video below:
+<div class="ui embed" data-source="youtube" data-id="I7z0tp7DJLo" >
+</div>
 
 
