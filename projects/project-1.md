@@ -12,7 +12,7 @@ labels:
   - Web Development
 summary: 1 of 20 students selected statewide to participate in this first camp funded by the Nalukai Foundation. The Nalukai Startup Camp brings together a group of Hawaii's most ambitious and inquisitive students to give them the tools and skills to be entrepreneurial problem solvers and digital storytellers.
 ---
-
+<img class="ui medium floated rounded image" src="../images/nalukai-academy-working.png">
 
 In summer 2015, I was given the opportunity to travel to the Big Island and participate in the first annual Nalukai Hacker Camp. This ten-day camp empowers aspiring entrepreneurs, designers, and programmers by providing resources to thrive in their passions and creating a like-minded environment with 20 similarly passionate students. 
 
