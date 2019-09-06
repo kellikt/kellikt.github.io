@@ -18,7 +18,11 @@ In summer 2015, I was given the opportunity to travel to the Big Island and part
 
 It took place at Hawaii Preparatory Academy (HPA), where we learned about project life cycles, startups, and entrepreneurships. Successful entrepreneurs such as Eric Nakagawa - founder of I Can Has Cheezburgers - and Bubs (Darius A. Monsef IV) - founder of Nalukai and COLOURlovers - told us personal accounts about the startup lifestyle. Google employees also discussed their projects, such as their technical work behind Google Earth and Google Maps, where they recreated 3D structures from satellite footage.
 
+## Making a website, it's a group effort
+
 These ten days at Nalukai Academy ultimately culminated in a final group project where we created a new Nalukai website in five days. Our original task was to create new content for the old Nalukai website, but within the second day of receiving this project, we decided to completely scrap the old site and rebuild it together. We paired designers together together to create the initial designs of the site, videographers/photographers together to create the video content and photos, and coders together to build the site.  I mainly worked on the front-end side of the website, dealing mainly with HTML and CSS, along with two other students, one who had back-end experience as a full-stack developer. 
+
+One of the biggest takeaways from this experience was learning how to work together with such a diverse skill set among the other students. Instead of splitting work based on quantity, we based it on the individual talents of each student. In this sense, we got a taste of what a project on a more professional level would feel like; we essentially increased the quality and efficiency of the website by grouping students who had the proper skills to complete their part of the project. 
 
 Here is a video promoting Nalukai Academy, showcasing some of the activities we had done throughout the year:
 <div class="ui embed" data-source="youtube" data-id="s-f3MxRm6KE" >
