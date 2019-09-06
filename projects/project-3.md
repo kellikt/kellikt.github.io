@@ -20,5 +20,4 @@ In this project, I was involved in all stages of the video, from drafting script
 
 Check out the video here <a href="https://www.youtube.com/watch?v=I7z0tp7DJLo">here.</a>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
