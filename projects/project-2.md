@@ -20,4 +20,6 @@ This is a two-player game, where players have different controls on the keyboard
 
 In this project, I mainly worked on the movements of the player and helped to pinpoint the hitbox of the players and the players’ weapons. Overall, this project was a great experience in coding with a team, especially regarding division of work and time management. In particular, it was important to learn how to plan ahead, since some snippets of the game could not be coded until other functions were finished.
 
-Check out a video of this game in action <a href="https://www.youtube.com/watch?v=-w64P45hA1E">here</a>.
+Check out a video of this game below.
+<div class="ui embed" data-source="youtube" data-id="-w64P45hA1E" >
+</div>
