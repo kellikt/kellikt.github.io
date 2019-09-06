@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/nalukai_academy.png
 title: Nalukai Academy
-permalink: projects/micromouse
+permalink: projects/nalukai-academy
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-18
 labels:
