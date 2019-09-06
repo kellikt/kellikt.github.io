@@ -7,7 +7,7 @@ permalink: projects/2d-fighter
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-27
 labels:
-  - Javascript
+  - Java
   - EZ Library
 summary: A 2D Fighter game my team and I developed in ICS 111.
 ---
