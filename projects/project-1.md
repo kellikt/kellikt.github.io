@@ -23,6 +23,6 @@ These ten days at Nalukai Academy ultimately culminated in a final group project
 Here is a video promoting Nalukai Academy, showcasing some of the activities we had done throughout the year:
 <div class="ui embed" data-source="youtube" data-id="s-f3MxRm6KE" >
 </div>
-Take a look at the website we created here: http://hackercamp2016.nalukai.org/
+Take a look at the website we created <a href="http://hackercamp2016.nalukai.org/"> here. </a> 
 
 
