@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "web development",
+      "name": "Web Development",
       "keywords": [
       ]
     },
     {
-      "name": "web design",
+      "name": "Web Design",
       "keywords": [
       ]
     },
     {
-      "name": "software development",
+      "name": "Software Development",
       "keywords": [
       ]
     }
@@ -108,10 +108,5 @@
       "summary": "Given to 80 students who possess a minimum of a 3.5 GPA, 1350 SAT score, and exhibit the qualities of an ideal UH Mānoa student. Renewed for 8 consecutive semesters or until a bachelor’s degree has been completed, provided that the student maintains a 3.0 GPA."
     }
   ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
   ]
 }
