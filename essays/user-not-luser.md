@@ -9,13 +9,13 @@ labels:
   - Smart Questions
   - Stack Overflow
 ---
-<img class="ui medium image" src="../images/question.jpg">
+<img class="ui medium center image" src="../images/question.jpg">
 
 In Eric Raymond’s essay <a href = "http://www.catb.org/esr/faqs/smart-questions.html">How to Ask Questions the Smart Way</a>, Raymond describes the best way to ask a programming or software question to a group of software engineers to ensure a quality and efficient answer. By following these guidelines, users who are requesting assistance ensure that they do not become “lusers,” a humorous term for users asking questions to the like of “My program isn’t working, here’s 1000 lines of my source code” or “Urgent question, what’s a Macintosh?”. Vague or easily searchable questions are obviously annoying, and usually a waste of time to answer. But is asking smart questions really necessary to be a good software engineer?
 
 ## What’s a poor question?
 
-<img class="ui medium image" src="../images/stupid.jpg">
+<img class="ui medium center image" src="../images/stupid.jpg">
 
 In <a href = "https://stackoverflow.com/questions/31211470/remove-arrayindexoutofboundsexception">this</a> poorly written question, this “luser” is asking about how they can remove an “ArrayIndexOutOfBoundsException” from their program. At face value, this seems like a reasonable request, so what makes this user a “luser”? First of all, it is clear that they are either extremely lazy or have not even searched up what this error is. Instead of providing a snippet of their source code to just include the arrays and where they are used, they copy/paste their entire program into the description. Just from the name of the exception, anyone can narrow down the error to the arrays in the program. Providing the whole source code instead of just the problematic section forces the reader to look for what the problem is. The requestor, the user, should be providing the problem, not the person who is trying to help. 
 
@@ -25,7 +25,7 @@ Lastly, the question asked by this “luser”, “How to fix it?”, just exude
 
 ## What makes a question smart?
 
-<img class="ui medium image" src="../images/smart.jpg">
+<img class="ui medium center image" src="../images/smart.jpg">
 
 In <a href= "https://stackoverflow.com/questions/1335851/what-does-use-strict-do-in-javascript-and-what-is-the-reasoning-behind-it?rq=1">this</a> well-written question, this user is asking about the function of the “use strict” statement and why it was created. So what makes this question a smart question? Considering this question is 10 years old, I am assuming that at the time, it was either recently added to Javascript or Javascript documentation had not included the function of this statement yet. Even so, this user has done a little research and searched up this statement on Google. While they were unable to figure out exactly what “use strict” does, they came up with a theory that it changes how Javascript is interpreted by your browser, based on what the examples they found. This shows that the user was willing to try to answer their question on their own before consulting other people. Not only does this extra level of effort increase the quality of questions asked, it also prevents the same question from being asked multiple times. As such, researching the question beforehand prevents other users from wasting time and might help the user resolve their issue faster.
 
