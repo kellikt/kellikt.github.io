@@ -15,7 +15,7 @@ In Eric Raymond’s essay <a href = "http://www.catb.org/esr/faqs/smart-question
 
 ## What’s a poor question?
 
-<img class="ui medium center image" src="../images/stupid.jpg">
+<img class="ui medium floated rounded image" src="../images/stupid.jpg">
 
 In <a href = "https://stackoverflow.com/questions/31211470/remove-arrayindexoutofboundsexception">this</a> poorly written question, this “luser” is asking about how they can remove an “ArrayIndexOutOfBoundsException” from their program. At face value, this seems like a reasonable request, so what makes this user a “luser”? First of all, it is clear that they are either extremely lazy or have not even searched up what this error is. Instead of providing a snippet of their source code to just include the arrays and where they are used, they copy/paste their entire program into the description. Just from the name of the exception, anyone can narrow down the error to the arrays in the program. Providing the whole source code instead of just the problematic section forces the reader to look for what the problem is. The requestor, the user, should be providing the problem, not the person who is trying to help. 
 
