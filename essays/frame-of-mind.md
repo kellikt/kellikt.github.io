@@ -70,9 +70,11 @@ HTML:
 CSS:
 None (besides pre-built Semantic UI classes)
 
-Compared to raw HTML/CSS, Semantic UI does not require any user-created custom classes for the columns in the webpage. These built-in classes are a huge time-saver when it comes to giving basic functionality, such as evenly spaced columns, to your website. While one tradeoff for built-in classes is that sometimes it can feel a little limited in terms of customization, it is still possible to edit the CSS, giving users the opportunity to shape elements of their websites into something more of their liking. 
+Compared to raw HTML/CSS, Semantic UI does not require any user-created custom classes for the columns in the webpage. With custom classes, users not only have to specify the width of each of the columns, they also need to play around with the padding and margins to create equal space between the column. As such, these built-in classes are a huge time-saver when it comes to giving basic functionality, such as evenly spaced columns, to your website. 
 
-As such, users can focus more on the overall layout of their website, rather than the implementation of common elements like menus. This allows users to give more thought into the flow of their website, such as where to place elements so they’re more intuitive and appealing to customers.
+Furthermore, Semantic UI gives your website a more responsive UI. Without putting precautions in place for custom classes, using a smaller sized screen, such as viewing the website with a smartphone or tablet, will glitch the interface, and sometimes cause elements to fall upon each other. Semantic UI's built-in classes have this 
+
+While one tradeoff for built-in classes with Semantic UI is that sometimes it can feel a little limited in terms of customization, it is still possible to edit the CSS, giving users the opportunity to shape elements of their websites into something more of their liking. As such, users can focus more on the overall layout of their website, rather than the implementation of common elements like menus. This allows users to give more thought into the flow of their website, such as where to place elements so they’re more intuitive and appealing to customers.
 
 ## But don’t just focus on the semantics
 
