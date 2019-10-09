@@ -10,13 +10,13 @@ labels:
   - UI Frameworks
 ---
 
-<img class="ui medium floated rounded image" src="../images/columns.PNG">
+<img class="ui medium rounded image" src="../images/columns.PNG">
 
 Working through a formatting practice exercise in HTML and CSS, I encountered what would become my enemy of the day, the dreaded three columns of my webpage. The left and right columns were easy enough, just floating the sections in the appropriate directions seemed to format it well enough. The middle column proved much more trickier. Squeezing it between my two other columns, I found difficulty no matter how much I fiddled with it. The height would be too tall, the width would be too big - it just didn’t look consistent with the other two columns. There had to be a better way to format it. As it turns out, there is, in the form of Semantic UI. Semantic UI is a UI Framework, which provides CSS classes and JavaScript functions that help simplify front-end workflow and provide aesthetic, consistent website layouts throughout all browsers. Essentially, it cuts down the level of work for front-end development. That being said, is it really necessary to use UI Frameworks for software engineering?
 
 ## UI Semantics is another word for shortcut
 
-<img class="ui medium floated rounded image" src="../images/semantic_columns.PNG">
+<img class="ui medium rounded image" src="../images/semantic_columns.PNG">
 
 One of the biggest benefits of using a UI Framework like UI Semantics is the time you save for formatting. Menus, buttons, columns, and even images have custom classes that can give your website a sleek, modern look. As an example, here’s the HTML/CSS code I used for the columns in my webpage without Semantic UI:
 
@@ -76,7 +76,7 @@ As such, users can focus more on the overall layout of their website, rather tha
 
 ## But don’t just focus on the semantics
 
-<img class="ui medium floated rounded image" src="../images/navbar.PNG">
+<img class="ui medium rounded image" src="../images/navbar.PNG">
 
 However, using Semantic UI doesn’t mean that your website will automatically be up to par with modern-day web design. Studying the design of other websites and incorporating parts that seem appealing to you are a big part of building up skills in web design. Yet, Semantic UI is still a great tool to help improve upon this skillset.
 
