@@ -15,6 +15,7 @@ Working through a formatting practice exercise in HTML and CSS, I encountered wh
 ## UI Semantics is another word for shortcut
 
 One of the biggest benefits of using a UI Framework like UI Semantics is the time you save for formatting. Menus, buttons, columns, and even images have custom classes that can give your website a sleek, modern look. As an example, here’s the HTML/CSS code I used for the columns in my webpage without Semantic UI:
+
 HTML:
 ```
 <div class = "left">
@@ -74,6 +75,7 @@ As such, users can focus more on the overall layout of their website, rather tha
 However, using Semantic UI doesn’t mean that your website will automatically be up to par with modern-day web design. Studying the design of other websites and incorporating parts that seem appealing to you are a big part of building up skills in web design. Yet, Semantic UI is still a great tool to help improve upon this skillset.
 
 Using the built-in classes with Semantic UI, it is easy to replicate the likeness of other websites. In an exercise using Semantic UI, I attempted to rebuild the homepage of Kealopiko, a clothing brand website. Rebuilding this website really gave me a better understanding of how to better utilize both Semantic UI classes and custom CSS classes to achieve my intended result. Most importantly, I gained more experience in altering the pre-built Semantic UI classes to better fit my needs, for example, the navigation menu:
+
 HTML:
 ```
 <div class="ui fitted borderless navbar menu">
