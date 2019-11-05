@@ -9,7 +9,7 @@ labels:
 ---
 
 ## Overview - The Problem
-UH Students want to collaborate on website projects together, but there isn't a platform to bring students from different departments together. Students are often isolated within their own departments and do not have the opportunity to find students with appropriate skills for their projects. This project idea was created by Bill Simmons, Yuuma Yamamoto, and Kelli Tamashiro.
+UH Students want to collaborate on website projects/startup ideas together, but there isn't a platform to bring students from different departments together. Students are often isolated within their own departments and do not have the opportunity to find students with appropriate skills for their projects. This project idea was created by Bill Simmons, Yuuma Yamamoto, and Kelli Tamashiro.
 
 ## Overview - Our Solution
 Our solution would be to create a platform to bring students from different departments together. Students would be able to post projects and specify what kind of students they are looking (graphic designers, programmers, etc.).
