@@ -12,4 +12,23 @@ labels:
 UH Students want to collaborate on website projects together, but there isn't a platform to bring students from different departments together. Students are often isolated within their own departments and do not have the opportunity to find students with appropriate skills for their projects.
 
 ## Our Solution
-Our solution would be to create a platform to 
+Our solution would be to create a platform to bring students from different departments together. Students would be able to post projects and specify what kind of students they are looking (graphic designers, programmers, etc.).
+
+## Mockup Pages
+Some mockup pages would include:
+- Homepage
+- Project dashboard (suggested projects)
+- Personal profile page
+- Admin page to see all projects and users
+- Project planning page
+
+## Use Case Ideas
+- New user can browse the projects, sign up, create an account
+- Admin can view all projects, edit all projects, view and edit all user profiles
+- Regular user can edit their projects, browse projects, edit their profile
+
+## Beyond the Basics
+- Chat messaging system for project members
+- Corporate users that can browse through startup websites, different permissions than regular users (investor portal)
+- Review your teammates
+
