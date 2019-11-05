@@ -31,4 +31,5 @@ Some mockup pages would include:
 - Chat messaging system for project members
 - Corporate users that can browse through startup websites, different permissions than regular users (investor portal)
 - Review your teammates
+- Room reservation page
 
