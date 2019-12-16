@@ -13,7 +13,7 @@ labels:
 summary: A website that consolidates food options at UH Manoa for ICS 314.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/UHMFoodMood.PNG.png">
+<img class="ui medium right floated rounded image" src="../images/UHMFoodMood.PNG">
 
 UHM Food Mood was a website application I developed my team and I developed as our final project for ICS 314, Software Engineering I. UHM Food Mood is a website that consolidates food options at UH Manoa so that students can easily see what food is available now and if their favorite foods are available now. UHM Food Mood does this by allowing users to browse through food options and "favorite" them by clicking on a heart button. From there, users can easily access their favorites through their "Your Favorites" page and see which ones are available by clicking on the "Food Available Now" button. In addition, users are also able to review food options and give a score between 1 - 5 (1 being the lowest and 5 being the highest). The average of the ratings for each food option will appear on the food option card. Users can also sort by highest rating by clicking the "Sort by Rating" button.
 
