@@ -14,7 +14,9 @@ Throughout this semester in ICS 314 Software Engineering, I have learned about m
 ## Agile Project Management - What is it?
 <img class="ui medium floated rounded image" src="../images/project-management.jpg">
 Agile Project Management is a lightweight form of project management that focuses on being responsive to customer feedback and open towards rapid change that addresses this feedback. Some of the key features of Agile Project Management are that each release has a fixed deadline, each release delivers functionality, and detailed planning is only done short-term. When my team and I worked on our UHM Food Mood website, we used Issue Driven Project Management, a form of Agile Project Management. Issue Driven Project Management essentially divides the project into a series of milestones, and within those milestones, a number of tasks to complete. Here are some key aspects of Issue Driven Project Management: there are always tasks for each member to work on, every member knows what task to work on, every member knows which task to work on after they finish their current task, no task is reliant on the completion of another task, each task contributes to the completion of the overall project, each member knows the state of the project, and each member can recognize breakdowns in the project. For UHM Food Mood, we used GitHub’s project boards, automated kanban boards, to apply Issue Driven Project Management to our project process. 
+
 <img class="ui medium floated rounded image" src="../images/UHMFoodMood-M3.PNG">
+
 By using the automated kanban boards, members can see exactly what they need to work on (GitHub issues) and progress towards completion of the project as a whole. It is a relatively straightforward process that efficiently divides work among team members.
 
 ## Can Video Production be Agile? Should it?
