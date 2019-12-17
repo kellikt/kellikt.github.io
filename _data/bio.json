@@ -4,7 +4,6 @@
     "label": "Student",
     "picture": "https://kellikt.github.io/images/kelli.png",
     "email": "kellikt@hawaii.edu",
-    "phone": "808-321-5850",
     "website": "https://kellikt.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii and expect to graduate in Spring, 2022. I aspire to be a full-stack web developer and software engineer.",
     "location": {
@@ -50,7 +49,7 @@
       "level": "",
       "keywords": [
         "Java",
-        "Javascript",
+        "Javascript"
       ]
     },
     {
@@ -58,7 +57,7 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Git/GitHub",
+        "Git/GitHub"
       ]
     }
   ],
@@ -79,7 +78,7 @@
       "company": "UH Information Technology Services",
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-07-04",
+      "startDate": "2019-07-04",
       "endDate": "Present",
       "summary": "",
       "highlights": [
