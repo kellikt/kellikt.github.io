@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/invertedfoodmood-1.png
-title: 2D Fighter Game
+title: UHM Food Mood
 permalink: projects/uhm-food-mood
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-16
