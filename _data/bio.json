@@ -99,7 +99,18 @@
       ]
     }
   ],
-  "volunteer": [
+  "experience": [
+    {
+      "organization": "Hawaii Annual Code Challenge",
+      "website": "ETS/HGG Community Engagement & Digital Storytelling",
+      "position": "Front-End Website Developer",
+      "startDate": "2019-10-03",
+      "endDate": "2019-11-14",
+      "summary": "Collaborated with other students to participate in the ETS/HGG Community Engagement & Digital Storytelling challenge",
+      "highlights": [
+        "Worked on the website design and implemented some of the form features"
+      ]
+    },
     {
       "organization": "Volunteer Legal Services Hawaii",
       "website": "https://www.vlsh.org/",
