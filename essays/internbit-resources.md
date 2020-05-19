@@ -10,7 +10,7 @@ labels:
   - RadGrad
 ---
 
-Finding suitable internships is a challenge that too many college students face on a regular basis. Why is it so hard? Simply googling “internship” will show you how easy it is to become overwhelmed by the sheer number of choices available. Sites such as indeed.com, internships.com, linkedin.com, occasionally provide some opportunities, but their selection is so massive that it’s sometimes difficult to find anything relevant. 
+Finding suitable internships is a challenge that so many college students face on a regular basis. Why is it so hard? Simply googling “internship” will show you how easy it is to become overwhelmed by the sheer number of choices available. Sites such as indeed.com, internships.com, linkedin.com, occasionally provide some opportunities, but their selection is so massive that it’s sometimes difficult to find anything relevant. 
 
 <img class="ui medium floated rounded image" src="../images/internship.png">
 
