@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Interns for Interns
+title: InternBit: Interns for Interns
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-19
 labels:
@@ -11,9 +11,9 @@ labels:
   - RadGrad
 ---
 
-<img class="ui medium floated rounded image" src="../images/internship.png">
-
 Finding suitable internships is a challenge that too many college students face on a regular basis. Why is it so hard? Simply googling “internship” will show you how easy it is to become overwhelmed by the sheer number of choices available. Sites such as indeed.com, internships.com, linkedin.com, occasionally provide some opportunities, but their selection is so massive that it’s sometimes difficult to find anything relevant. 
+
+<img class="ui medium floated rounded image" src="../images/internship.png">
 
 Looking particularly at internships.com, using “computer science” as a keyword and setting the location restraint to “Honolulu, HI” within 5 mi. radius, the first few results are all remote work, with one particular outlier in Virginia - to see internships that are located in Hawaii, we need to scroll a little further to find… just one internship in the area. In addition, the interface of the selection of internships can make it challenging to discern immediate information about the job - such as experience/skills required. It can be a frustrating battle to use these massive internship sites, as it’s not only difficult to find something that could be a good fit, but also time consuming to filter through internships that seem like a possible match, but upon further inspection, end up being something that doesn’t fit with your interest or skill set. 
 
