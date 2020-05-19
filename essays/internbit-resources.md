@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: InternBit: Interns for Interns
+title: Interns for Interns
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-19
 labels:
