@@ -6,7 +6,6 @@ title: InternBit: Interns for Interns
 date: 2020-05-19
 labels:
   - InternBit
-  - Recommendation Systems
   - Artificial Intelligence
   - RadGrad
 ---
