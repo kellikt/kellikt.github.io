@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Two Brains are Better Than One
 # All dates must be YYYY-MM-DD format!
-date: 2020-05-22
+date: 2020-06-04
 labels:
   - Web Scraping
   - RadGrad
