@@ -68,12 +68,25 @@
       "studyType": "B.S.",
       "startDate": "2018-08-26",
       "endDate": "Present",
-      "gpa": "4.0",
+      "gpa": "3.9",
       "courses": [
       ]
     }
   ],
   "work": [
+    {
+      "company": "RadGrad",
+      "position": "Website Developer",
+      "website": "https://radgrad.ics.hawaii.edu/",
+      "startDate": "2020-05-20",
+      "endDate": "2020-08-16",
+      "summary": "Worked in a team to develop a prototype for InternAloha",
+      "highlights": [
+        "Used Puppeteer and Osmosis to scrape internship listings from internship websites",
+        "Categorized Internship listings using RegEx and Natural.js",
+        "Built a front-end interface using Meteor and React"
+      ]
+    },
     {
       "company": "UH Information Technology Services",
       "position": "Help Desk Consultant",
@@ -100,6 +113,18 @@
     }
   ],
   "volunteer": [
+    {
+      "organization": "Hawaii Annual Code Challenge",
+      "website": "http://hacchui.ics.hawaii.edu:8888/#/",
+      "position": "Website Developer",
+      "startDate": "2020-08-26",
+      "endDate": "2020-10-31",
+      "summary": "Collaborated with students in ICS 414 to develop a team-finder website for the Hawaii Annual Code Challenge (HACC)",
+      "highlights": [
+        "Implemented an interface for users to find other developers for their HACC teams",
+        "Added Slack functionality to the team invitation function"
+      ]
+    },
     {
       "organization": "Hawaii Annual Code Challenge",
       "website": "https://devpost.com/software/ets-hgg-community-engagement-600-iq-team",
