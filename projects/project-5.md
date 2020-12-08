@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/invertedfoodmood-1.png
+image: images/hacc.png
 title: HACC-Hui
 permalink: projects/hacc-hui
 # All dates must be YYYY-MM-DD format!
