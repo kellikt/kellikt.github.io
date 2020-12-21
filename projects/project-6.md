@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/radgrad_logo.png
 title: InternBit
-permalink: projects/hacc-hui
+permalink: projects/internbit-hui
 # All dates must be YYYY-MM-DD format!
 date: 2020-08-08
 labels:
