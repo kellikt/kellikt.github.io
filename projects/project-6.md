@@ -29,4 +29,6 @@ I also learned a lot about working together with my peers, which was an interest
 
 In addition, I had the opportunity to prepare and present a research poster with my InternBit team for the Summer 2020 Student Undergraduate Research Program Conference. While it was held remotely due to COVID-19, it was still an amazing opportunity to both share research and learn from other students. 
 
-Overall, InternBit was a great experience to both practice the web development skills I learned from my previous ICS courses and collaborate with my peers to create a working prototype for an internship recommendation system. Read more about InternBit <a href="https://www.radgrad.org/docs/archive/internbit/goals">here.</a>
+Overall, InternBit was a great experience to both practice the web development skills I learned from my previous ICS courses and collaborate with my peers to create a working prototype for an internship recommendation system. 
+
+Read more about InternBit <a href="https://www.radgrad.org/docs/archive/internbit/goals">here.</a>
